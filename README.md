@@ -52,7 +52,7 @@ Here’s a polished **README.md** and description you can use for your GitHub re
 1. **Run the toolkit**
  
 
- `smsbomba.py ` 
+ `python3 smsbomba.py ` 
  
 Enjoy the rainbow-colored CLI menu with SMS and IP utilities.
  
