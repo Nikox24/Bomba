@@ -101,7 +101,7 @@ You can edit these constants directly in the Python script to change behavior.
 ## Credits
  
  
-- **Owner/Developer:** Angel Nico Igdalino (`NIKOX`)
+- **Owner/Developer:** (`NIKOX`)
  
 - **GitHub:** [https://github.com/Nikox24](https://github.com/Nikox24)
  
