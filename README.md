@@ -33,10 +33,8 @@ Here’s a polished **README.md** and description you can use for your GitHub re
  `pkg update && pkg upgrade -y pkg install python -y pkg install git -y ` 
  
 1. **Clone the repository**
- 
+ https://github.com/Nikox24/Bomba.git
 
- `git clone https://github.com/Nikox24/nikox-toolkit.git cd nikox-toolkit ` 
- 
 1. **Install required Python packages**
  
 
@@ -54,7 +52,7 @@ Here’s a polished **README.md** and description you can use for your GitHub re
 1. **Run the toolkit**
  
 
- `python3 nikox_smsbomber_full.py ` 
+ `smsbomba.py ` 
  
 Enjoy the rainbow-colored CLI menu with SMS and IP utilities.
  
