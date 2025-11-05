@@ -408,7 +408,7 @@ def main_menu():
                 time.sleep(1)
                 continue
             # Gather SMS prefs (only the essentials)
-            phone = input("Enter target phone (e.g. 09928396831): ").strip()
+            phone = input("Enter target phone (e.g. 09813933063): ").strip()
             try:
                 amount = int(input("Enter amount per call (e.g. 10): ").strip())
             except Exception:
